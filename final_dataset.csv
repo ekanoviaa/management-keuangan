@@ -1,0 +1,784 @@
+Date,Category,Amount
+2018-01-01,shopping,11.11
+2018-01-02,mortgage & rent,1247.44
+2018-01-02,restaurants,24.22
+2018-01-03,credit card payment,2298.09
+2018-01-04,movies & dvds,11.76
+2018-01-05,restaurants,25.85
+2018-01-06,home improvement,18.45
+2018-01-08,utilities,45.0
+2018-01-08,home improvement,15.38
+2018-01-09,music,10.69
+2018-01-10,mobile phone,89.46
+2018-01-11,gas & fuel,34.87
+2018-01-11,groceries,43.54
+2018-01-12,paycheck,2000.0
+2018-01-13,fast food,32.91
+2018-01-13,shopping,39.05
+2018-01-15,groceries,44.19
+2018-01-15,restaurants,64.11
+2018-01-16,utilities,35.0
+2018-01-16,utilities,60.0
+2018-01-19,paycheck,2000.0
+2018-01-20,shopping,50.21
+2018-01-22,credit card payment,554.99
+2018-01-22,credit card payment,309.81
+2018-01-22,home improvement,17.38
+2018-01-23,credit card payment,309.81
+2018-01-24,coffee shops,3.0
+2018-01-25,internet,69.99
+2018-01-29,gas & fuel,30.42
+2018-01-29,restaurants,25.0
+2018-01-29,restaurants,17.62
+2018-02-01,groceries,27.79
+2018-02-01,shopping,11.11
+2018-02-02,mortgage & rent,1247.44
+2018-02-02,paycheck,2000.0
+2018-02-03,restaurants,57.02
+2018-02-04,movies & dvds,11.76
+2018-02-05,credit card payment,145.14
+2018-02-06,credit card payment,154.13
+2018-02-07,credit card payment,154.13
+2018-02-07,utilities,65.0
+2018-02-09,haircut,30.0
+2018-02-09,music,10.69
+2018-02-10,fast food,10.66
+2018-02-11,restaurants,106.8
+2018-02-12,gas & fuel,36.47
+2018-02-12,mobile phone,89.52
+2018-02-14,alcohol & bars,14.0
+2018-02-15,restaurants,10.0
+2018-02-15,utilities,60.0
+2018-02-16,paycheck,2000.0
+2018-02-16,restaurants,8.0
+2018-02-16,utilities,35.0
+2018-02-20,groceries,35.95
+2018-02-20,restaurants,23.51
+2018-02-21,coffee shops,2.0
+2018-02-22,coffee shops,4.0
+2018-02-26,credit card payment,765.37
+2018-02-26,credit card payment,156.11
+2018-02-26,internet,74.99
+2018-02-26,restaurants,85.52
+2018-02-26,gas & fuel,32.21
+2018-02-27,credit card payment,156.11
+2018-03-01,groceries,32.07
+2018-03-01,shopping,13.13
+2018-03-02,mortgage & rent,1247.44
+2018-03-02,paycheck,2000.0
+2018-03-03,groceries,23.74
+2018-03-04,groceries,10.69
+2018-03-04,movies & dvds,11.76
+2018-03-04,restaurants,42.24
+2018-03-05,coffee shops,3.0
+2018-03-05,credit card payment,761.59
+2018-03-07,coffee shops,3.5
+2018-03-08,gas & fuel,34.9
+2018-03-08,utilities,52.0
+2018-03-09,groceries,20.72
+2018-03-09,groceries,5.09
+2018-03-09,music,10.69
+2018-03-12,groceries,19.35
+2018-03-12,mobile phone,89.52
+2018-03-13,shopping,45.75
+2018-03-14,groceries,22.5
+2018-03-14,restaurants,8.49
+2018-03-15,coffee shops,3.5
+2018-03-15,utilities,60.0
+2018-03-16,paycheck,2000.0
+2018-03-17,alcohol & bars,19.5
+2018-03-17,fast food,23.34
+2018-03-19,restaurants,36.48
+2018-03-19,utilities,35.0
+2018-03-20,shopping,14.97
+2018-03-22,gas & fuel,30.55
+2018-03-23,credit card payment,559.91
+2018-03-23,groceries,11.76
+2018-03-26,internet,74.99
+2018-03-28,groceries,16.06
+2018-03-28,restaurants,24.98
+2018-03-29,restaurants,17.64
+2018-03-30,groceries,9.09
+2018-03-30,paycheck,2000.0
+2018-03-31,restaurants,38.32
+2018-03-31,restaurants,24.74
+2018-03-31,restaurants,41.16
+2018-04-01,groceries,80.79
+2018-04-01,restaurants,59.48
+2018-04-01,shopping,13.13
+2018-04-02,credit card payment,817.14
+2018-04-02,groceries,82.36
+2018-04-02,home improvement,13.89
+2018-04-02,mortgage & rent,1247.44
+2018-04-03,movies & dvds,6.41
+2018-04-04,credit card payment,363.08
+2018-04-04,movies & dvds,11.76
+2018-04-06,gas & fuel,4.58
+2018-04-06,restaurants,9.76
+2018-04-08,restaurants,22.0
+2018-04-09,groceries,6.48
+2018-04-09,music,10.69
+2018-04-09,utilities,30.0
+2018-04-11,mobile phone,89.52
+2018-04-12,coffee shops,7.0
+2018-04-12,haircut,30.0
+2018-04-13,gas & fuel,37.98
+2018-04-13,paycheck,2000.0
+2018-04-13,restaurants,10.66
+2018-04-14,home improvement,11.61
+2018-04-14,restaurants,41.0
+2018-04-16,auto insurance,75.0
+2018-04-16,utilities,35.0
+2018-04-18,utilities,60.0
+2018-04-20,restaurants,24.22
+2018-04-21,groceries,4.32
+2018-04-21,restaurants,35.15
+2018-04-22,groceries,21.32
+2018-04-23,home improvement,42.7
+2018-04-24,home improvement,224.7
+2018-04-24,shopping,41.34
+2018-04-25,home improvement,210.79
+2018-04-25,internet,74.99
+2018-04-26,credit card payment,769.72
+2018-04-26,credit card payment,1216.94
+2018-04-27,credit card payment,769.72
+2018-04-27,paycheck,2000.0
+2018-04-28,groceries,22.98
+2018-04-29,gas & fuel,39.0
+2018-04-29,groceries,51.05
+2018-04-29,home improvement,68.47
+2018-04-30,groceries,5.09
+2018-05-01,shopping,13.13
+2018-05-02,mortgage & rent,1247.44
+2018-05-03,shopping,49.72
+2018-05-04,groceries,42.23
+2018-05-04,movies & dvds,11.76
+2018-05-05,fast food,7.27
+2018-05-05,fast food,20.52
+2018-05-06,home improvement,22.37
+2018-05-06,shopping,117.69
+2018-05-09,credit card payment,601.4
+2018-05-09,music,10.69
+2018-05-09,utilities,30.0
+2018-05-10,mobile phone,111.18
+2018-05-11,groceries,57.32
+2018-05-11,paycheck,2000.0
+2018-05-11,home improvement,8000.0
+2018-05-12,alcohol & bars,27.77
+2018-05-12,gas & fuel,33.3
+2018-05-12,restaurants,78.0
+2018-05-14,groceries,67.63
+2018-05-15,utilities,60.0
+2018-05-17,haircut,29.0
+2018-05-17,utilities,35.0
+2018-05-18,auto insurance,75.0
+2018-05-18,shopping,6.41
+2018-05-19,credit card payment,207.08
+2018-05-19,groceries,31.0
+2018-05-19,restaurants,23.26
+2018-05-21,credit card payment,283.07
+2018-05-21,restaurants,26.04
+2018-05-21,shopping,32.5
+2018-05-22,credit card payment,283.07
+2018-05-24,gas & fuel,39.44
+2018-05-25,internet,74.99
+2018-05-25,paycheck,2000.0
+2018-05-28,entertainment,9.62
+2018-05-28,groceries,91.03
+2018-05-29,movies & dvds,20.0
+2018-05-29,movies & dvds,6.25
+2018-06-01,gas & fuel,38.63
+2018-06-01,groceries,6.11
+2018-06-01,shopping,13.13
+2018-06-02,credit card payment,235.18
+2018-06-02,credit card payment,466.36
+2018-06-03,restaurants,65.81
+2018-06-04,credit card payment,235.18
+2018-06-04,groceries,24.12
+2018-06-04,mortgage & rent,1247.44
+2018-06-04,movies & dvds,11.76
+2018-06-06,coffee shops,4.0
+2018-06-08,paycheck,2000.0
+2018-06-08,utilities,30.0
+2018-06-09,fast food,16.18
+2018-06-09,groceries,9.56
+2018-06-09,music,10.69
+2018-06-10,groceries,46.01
+2018-06-12,groceries,12.55
+2018-06-12,mobile phone,89.46
+2018-06-14,credit card payment,283.44
+2018-06-14,groceries,7.02
+2018-06-15,utilities,60.0
+2018-06-16,coffee shops,3.0
+2018-06-16,fast food,22.66
+2018-06-16,groceries,13.9
+2018-06-18,utilities,35.0
+2018-06-19,gas & fuel,38.52
+2018-06-19,groceries,2.69
+2018-06-20,auto insurance,75.0
+2018-06-20,credit card payment,89.45
+2018-06-20,haircut,30.0
+2018-06-21,credit card payment,89.45
+2018-06-22,paycheck,2000.0
+2018-06-23,restaurants,8.5
+2018-06-23,shopping,74.97
+2018-06-25,credit card payment,942.76
+2018-06-25,internet,74.99
+2018-06-26,groceries,9.62
+2018-06-27,coffee shops,3.5
+2018-06-27,fast food,22.66
+2018-06-28,groceries,7.57
+2018-07-01,shopping,13.13
+2018-07-02,mortgage & rent,1247.44
+2018-07-02,movies & dvds,25.0
+2018-07-02,restaurants,36.44
+2018-07-04,gas & fuel,34.48
+2018-07-04,movies & dvds,11.76
+2018-07-05,groceries,44.25
+2018-07-05,shopping,212.32
+2018-07-06,movies & dvds,6.41
+2018-07-06,paycheck,2000.0
+2018-07-08,credit card payment,259.87
+2018-07-09,credit card payment,242.16
+2018-07-09,credit card payment,259.87
+2018-07-09,music,10.69
+2018-07-10,credit card payment,242.16
+2018-07-10,groceries,5.39
+2018-07-10,utilities,30.0
+2018-07-11,mobile phone,89.46
+2018-07-14,gas & fuel,33.51
+2018-07-15,gas & fuel,36.24
+2018-07-17,fast food,15.23
+2018-07-17,utilities,35.0
+2018-07-17,utilities,60.0
+2018-07-18,alcohol & bars,28.54
+2018-07-18,auto insurance,75.0
+2018-07-20,credit card payment,61.43
+2018-07-20,credit card payment,102.88
+2018-07-20,paycheck,2000.0
+2018-07-21,groceries,28.93
+2018-07-21,haircut,30.0
+2018-07-23,credit card payment,61.43
+2018-07-23,fast food,9.58
+2018-07-24,restaurants,26.59
+2018-07-25,internet,74.99
+2018-07-26,gas & fuel,33.67
+2018-07-28,groceries,7.61
+2018-07-30,restaurants,34.38
+2018-07-31,alcohol & bars,6.6
+2018-08-01,shopping,13.13
+2018-08-02,credit card payment,816.27
+2018-08-02,gas & fuel,40.44
+2018-08-02,mortgage & rent,1247.44
+2018-08-03,groceries,6.27
+2018-08-03,paycheck,2000.0
+2018-08-04,movies & dvds,11.76
+2018-08-06,shopping,76.47
+2018-08-09,music,10.69
+2018-08-09,utilities,30.0
+2018-08-10,mobile phone,89.4
+2018-08-11,fast food,13.67
+2018-08-11,gas & fuel,33.66
+2018-08-15,credit card payment,269.56
+2018-08-15,credit card payment,159.38
+2018-08-15,gas & fuel,41.07
+2018-08-15,groceries,5.64
+2018-08-15,utilities,60.0
+2018-08-16,credit card payment,269.56
+2018-08-16,utilities,35.0
+2018-08-17,paycheck,2000.0
+2018-08-17,shopping,14.98
+2018-08-18,shopping,23.47
+2018-08-20,auto insurance,75.0
+2018-08-21,credit card payment,34.18
+2018-08-21,credit card payment,99.76
+2018-08-22,credit card payment,34.18
+2018-08-24,restaurants,42.31
+2018-08-27,internet,74.99
+2018-08-30,gas & fuel,35.65
+2018-08-31,groceries,11.64
+2018-08-31,paycheck,2000.0
+2018-09-01,alcohol & bars,47.4
+2018-09-01,shopping,13.13
+2018-09-02,shopping,109.83
+2018-09-04,credit card payment,687.29
+2018-09-04,mortgage & rent,1247.44
+2018-09-04,movies & dvds,11.76
+2018-09-07,utilities,30.0
+2018-09-09,alcohol & bars,18.0
+2018-09-09,music,10.69
+2018-09-11,gas & fuel,38.86
+2018-09-11,groceries,7.87
+2018-09-12,groceries,47.16
+2018-09-12,mobile phone,89.4
+2018-09-13,groceries,5.64
+2018-09-14,credit card payment,134.34
+2018-09-14,paycheck,2000.0
+2018-09-17,groceries,10.17
+2018-09-17,groceries,8.8
+2018-09-17,utilities,35.0
+2018-09-18,groceries,4.32
+2018-09-18,utilities,60.0
+2018-09-19,auto insurance,75.0
+2018-09-19,haircut,30.0
+2018-09-20,shopping,47.38
+2018-09-22,home improvement,69.4
+2018-09-22,home improvement,6.83
+2018-09-25,internet,74.99
+2018-09-25,restaurants,48.64
+2018-09-26,coffee shops,5.0
+2018-09-26,gas & fuel,38.0
+2018-09-27,gas & fuel,40.71
+2018-09-28,credit card payment,128.12
+2018-09-28,credit card payment,284.96
+2018-09-28,groceries,13.36
+2018-09-28,paycheck,2000.0
+2018-09-29,restaurants,23.26
+2018-09-29,restaurants,46.7
+2018-10-01,coffee shops,3.0
+2018-10-01,credit card payment,128.12
+2018-10-01,groceries,15.66
+2018-10-01,shopping,13.13
+2018-10-02,credit card payment,124.03
+2018-10-02,mortgage & rent,1209.18
+2018-10-04,movies & dvds,11.76
+2018-10-06,restaurants,27.0
+2018-10-08,gas & fuel,38.06
+2018-10-08,home improvement,80.65
+2018-10-08,home improvement,31.2
+2018-10-09,music,10.69
+2018-10-09,shopping,19.98
+2018-10-09,utilities,30.0
+2018-10-10,groceries,53.68
+2018-10-11,mobile phone,89.4
+2018-10-12,paycheck,2000.0
+2018-10-16,utilities,60.0
+2018-10-17,utilities,35.0
+2018-10-18,auto insurance,75.0
+2018-10-18,groceries,33.55
+2018-10-18,home improvement,45.24
+2018-10-18,restaurants,8.0
+2018-10-21,credit card payment,544.37
+2018-10-22,credit card payment,353.83
+2018-10-22,gas & fuel,34.66
+2018-10-23,groceries,7.57
+2018-10-25,internet,74.99
+2018-10-25,shopping,29.98
+2018-10-26,paycheck,2000.0
+2018-10-27,restaurants,25.4
+2018-10-28,alcohol & bars,12.71
+2018-10-28,food & dining,14.75
+2018-10-28,groceries,92.49
+2018-10-28,restaurants,54.0
+2018-10-31,groceries,5.64
+2018-11-01,shopping,13.13
+2018-11-02,credit card payment,262.51
+2018-11-02,mortgage & rent,1209.18
+2018-11-03,fast food,23.66
+2018-11-04,movies & dvds,11.76
+2018-11-05,gas & fuel,36.51
+2018-11-06,shopping,53.95
+2018-11-06,utilities,30.0
+2018-11-08,groceries,5.64
+2018-11-09,music,10.69
+2018-11-09,paycheck,2000.0
+2018-11-10,alcohol & bars,27.0
+2018-11-10,fast food,14.19
+2018-11-10,groceries,24.4
+2018-11-12,groceries,10.18
+2018-11-12,restaurants,22.33
+2018-11-13,groceries,4.8
+2018-11-13,groceries,37.43
+2018-11-13,groceries,10.15
+2018-11-13,mobile phone,89.54
+2018-11-14,utilities,60.0
+2018-11-16,utilities,35.0
+2018-11-17,alcohol & bars,22.8
+2018-11-17,home improvement,15.47
+2018-11-17,home improvement,6.4
+2018-11-17,restaurants,23.26
+2018-11-19,alcohol & bars,20.0
+2018-11-19,gas & fuel,29.15
+2018-11-19,home improvement,10.02
+2018-11-20,auto insurance,75.0
+2018-11-20,credit card payment,421.96
+2018-11-21,groceries,5.64
+2018-11-21,home improvement,37.41
+2018-11-23,paycheck,2000.0
+2018-11-26,alcohol & bars,16.8
+2018-11-26,internet,74.99
+2018-11-27,movies & dvds,17.0
+2018-11-27,restaurants,28.4
+2018-11-29,credit card payment,582.99
+2018-11-29,credit card payment,751.5
+2018-11-30,credit card payment,582.99
+2018-11-30,groceries,6.27
+2018-12-01,groceries,5.64
+2018-12-01,restaurants,8.0
+2018-12-01,shopping,13.13
+2018-12-03,gas & fuel,30.03
+2018-12-03,groceries,148.15
+2018-12-03,mortgage & rent,1209.18
+2018-12-04,coffee shops,3.0
+2018-12-04,fast food,20.65
+2018-12-04,movies & dvds,11.76
+2018-12-06,groceries,21.38
+2018-12-06,groceries,13.48
+2018-12-06,utilities,40.0
+2018-12-07,haircut,30.0
+2018-12-07,paycheck,2000.0
+2018-12-08,groceries,12.64
+2018-12-09,music,10.69
+2018-12-11,restaurants,10.29
+2018-12-12,mobile phone,89.54
+2018-12-13,restaurants,27.0
+2018-12-14,groceries,21.39
+2018-12-14,home improvement,17.1
+2018-12-14,utilities,60.0
+2018-12-17,food & dining,63.0
+2018-12-17,gas & fuel,20.01
+2018-12-17,utilities,35.0
+2018-12-18,coffee shops,3.0
+2018-12-18,credit card payment,311.02
+2018-12-18,restaurants,56.52
+2018-12-18,shopping,49.99
+2018-12-18,shopping,41.72
+2018-12-18,shopping,24.3
+2018-12-19,auto insurance,75.0
+2018-12-19,shopping,43.01
+2018-12-20,credit card payment,464.03
+2018-12-20,gas & fuel,30.38
+2018-12-21,credit card payment,464.03
+2018-12-21,paycheck,2000.0
+2018-12-22,fast food,21.38
+2018-12-22,home improvement,22.14
+2018-12-23,home improvement,28.0
+2018-12-24,home improvement,38.4
+2018-12-26,fast food,56.07
+2018-12-26,gas & fuel,32.47
+2018-12-26,gas & fuel,7.48
+2018-12-26,internet,75.99
+2018-12-26,shopping,44.99
+2018-12-28,alcohol & bars,12.0
+2018-12-29,alcohol & bars,14.0
+2018-12-29,credit card payment,860.05
+2018-12-29,groceries,55.04
+2019-01-01,shopping,13.09
+2019-01-02,credit card payment,499.6
+2019-01-03,mortgage & rent,1100.0
+2019-01-03,shopping,42.1
+2019-01-04,paycheck,2000.0
+2019-01-05,restaurants,23.49
+2019-01-08,utilities,45.0
+2019-01-09,credit card payment,491.45
+2019-01-09,credit card payment,281.84
+2019-01-09,music,10.69
+2019-01-10,groceries,58.79
+2019-01-10,haircut,30.0
+2019-01-10,mobile phone,65.0
+2019-01-14,gas & fuel,28.92
+2019-01-15,groceries,6.06
+2019-01-16,utilities,35.0
+2019-01-16,utilities,60.0
+2019-01-18,auto insurance,75.0
+2019-01-18,paycheck,2000.0
+2019-01-21,credit card payment,277.99
+2019-01-22,credit card payment,277.99
+2019-01-24,groceries,21.06
+2019-01-24,shopping,11.7
+2019-01-24,shopping,4.21
+2019-01-25,internet,75.0
+2019-01-31,credit card payment,1900.0
+2019-01-31,gas & fuel,31.32
+2019-02-01,paycheck,2000.0
+2019-02-01,restaurants,9.47
+2019-02-01,shopping,13.09
+2019-02-04,home improvement,86.97
+2019-02-04,television,11.76
+2019-02-05,mortgage & rent,1100.0
+2019-02-07,utilities,65.0
+2019-02-08,coffee shops,3.0
+2019-02-08,restaurants,27.47
+2019-02-09,music,10.69
+2019-02-11,coffee shops,3.0
+2019-02-11,credit card payment,133.95
+2019-02-11,gas & fuel,24.01
+2019-02-12,groceries,30.54
+2019-02-12,mobile phone,65.0
+2019-02-13,groceries,8.21
+2019-02-15,credit card payment,207.47
+2019-02-15,groceries,4.59
+2019-02-15,paycheck,2000.0
+2019-02-15,utilities,60.0
+2019-02-16,alcohol & bars,8.0
+2019-02-16,restaurants,32.75
+2019-02-16,shopping,37.45
+2019-02-19,credit card payment,574.84
+2019-02-19,utilities,35.0
+2019-02-20,auto insurance,75.0
+2019-02-20,credit card payment,292.54
+2019-02-20,haircut,30.0
+2019-02-21,credit card payment,292.54
+2019-02-21,groceries,46.96
+2019-02-25,gas & fuel,33.8
+2019-02-25,internet,75.0
+2019-02-27,restaurants,25.77
+2019-02-28,groceries,32.07
+2019-03-01,paycheck,2000.0
+2019-03-01,shopping,13.09
+2019-03-04,groceries,92.04
+2019-03-04,mortgage & rent,1100.0
+2019-03-04,television,11.76
+2019-03-05,restaurants,7.0
+2019-03-06,credit card payment,491.86
+2019-03-08,gas & fuel,34.08
+2019-03-08,shopping,27.17
+2019-03-08,utilities,49.0
+2019-03-09,music,10.69
+2019-03-12,mobile phone,65.0
+2019-03-12,restaurants,3.02
+2019-03-13,credit card payment,532.86
+2019-03-13,credit card payment,301.79
+2019-03-14,credit card payment,305.27
+2019-03-14,credit card payment,301.79
+2019-03-14,restaurants,8.0
+2019-03-15,paycheck,2000.0
+2019-03-15,utilities,60.0
+2019-03-18,electronics & software,320.99
+2019-03-18,groceries,16.23
+2019-03-19,shopping,13.84
+2019-03-19,utilities,35.0
+2019-03-20,auto insurance,75.0
+2019-03-22,gas & fuel,37.51
+2019-03-23,coffee shops,5.2
+2019-03-25,internet,75.0
+2019-03-26,shopping,16.04
+2019-03-27,alcohol & bars,49.63
+2019-03-27,groceries,4.46
+2019-03-29,paycheck,2000.0
+2019-03-30,coffee shops,12.84
+2019-03-31,credit card payment,957.6
+2019-04-01,credit card payment,1552.65
+2019-04-01,credit card payment,600.51
+2019-04-01,shopping,13.09
+2019-04-02,mortgage & rent,1100.0
+2019-04-04,groceries,5.64
+2019-04-04,shopping,35.9
+2019-04-04,television,11.76
+2019-04-06,shopping,27.54
+2019-04-08,utilities,30.0
+2019-04-09,credit card payment,436.75
+2019-04-09,groceries,10.7
+2019-04-09,haircut,30.0
+2019-04-09,music,10.69
+2019-04-10,mobile phone,65.0
+2019-04-12,electronics & software,44.93
+2019-04-12,groceries,41.34
+2019-04-12,paycheck,2000.0
+2019-04-13,gas & fuel,38.94
+2019-04-13,groceries,16.87
+2019-04-13,restaurants,20.64
+2019-04-15,utilities,60.0
+2019-04-16,utilities,35.0
+2019-04-18,auto insurance,75.0
+2019-04-18,credit card payment,604.32
+2019-04-18,credit card payment,458.1
+2019-04-19,credit card payment,604.32
+2019-04-19,groceries,10.89
+2019-04-22,alcohol & bars,14.4
+2019-04-22,restaurants,64.52
+2019-04-23,home improvement,29.56
+2019-04-25,internet,75.0
+2019-04-26,paycheck,2000.0
+2019-04-27,alcohol & bars,40.0
+2019-04-27,credit card payment,268.96
+2019-04-27,restaurants,14.74
+2019-04-29,credit card payment,268.96
+2019-04-29,groceries,5.64
+2019-04-30,gas & fuel,39.08
+2019-05-01,shopping,13.09
+2019-05-02,mortgage & rent,1100.0
+2019-05-03,credit card payment,758.07
+2019-05-04,television,13.9
+2019-05-06,shopping,16.94
+2019-05-07,shopping,38.56
+2019-05-09,electronics & software,331.69
+2019-05-09,music,10.69
+2019-05-09,shopping,3.2
+2019-05-09,utilities,30.0
+2019-05-10,electronics & software,21.39
+2019-05-10,mobile phone,65.0
+2019-05-10,paycheck,2000.0
+2019-05-13,credit card payment,480.88
+2019-05-13,gas & fuel,35.24
+2019-05-13,restaurants,98.19
+2019-05-13,restaurants,23.11
+2019-05-14,groceries,2.02
+2019-05-15,utilities,60.0
+2019-05-17,credit card payment,575.33
+2019-05-17,utilities,35.0
+2019-05-20,auto insurance,75.0
+2019-05-20,credit card payment,415.47
+2019-05-20,restaurants,32.53
+2019-05-24,credit card payment,765.68
+2019-05-24,home improvement,27.96
+2019-05-24,paycheck,2000.0
+2019-05-24,restaurants,8.0
+2019-05-25,gas & fuel,36.76
+2019-05-25,home improvement,30.99
+2019-05-27,restaurants,34.33
+2019-05-28,credit card payment,765.68
+2019-05-30,internet,75.0
+2019-05-30,restaurants,34.82
+2019-06-01,shopping,13.09
+2019-06-03,coffee shops,2.75
+2019-06-03,credit card payment,260.95
+2019-06-03,mortgage & rent,1100.0
+2019-06-04,haircut,30.0
+2019-06-04,television,13.9
+2019-06-05,groceries,23.0
+2019-06-05,restaurants,23.24
+2019-06-06,coffee shops,3.75
+2019-06-06,groceries,5.64
+2019-06-07,credit card payment,458.56
+2019-06-07,paycheck,2000.0
+2019-06-07,utilities,30.0
+2019-06-09,music,10.69
+2019-06-12,mobile phone,65.0
+2019-06-13,credit card payment,152.72
+2019-06-14,groceries,10.69
+2019-06-15,gas & fuel,33.16
+2019-06-17,utilities,35.0
+2019-06-17,utilities,60.0
+2019-06-18,alcohol & bars,15.0
+2019-06-18,gas & fuel,41.83
+2019-06-19,auto insurance,75.0
+2019-06-20,credit card payment,375.26
+2019-06-20,home improvement,9200.0
+2019-06-20,credit card payment,100.68
+2019-06-21,credit card payment,100.68
+2019-06-21,paycheck,2000.0
+2019-06-24,alcohol & bars,15.0
+2019-06-28,gas & fuel,30.64
+2019-06-30,internet,75.0
+2019-07-01,coffee shops,7.0
+2019-07-01,groceries,99.47
+2019-07-01,restaurants,24.97
+2019-07-01,restaurants,24.0
+2019-07-01,shopping,13.09
+2019-07-02,home improvement,229.9
+2019-07-02,mortgage & rent,1100.0
+2019-07-04,television,13.9
+2019-07-05,alcohol & bars,19.0
+2019-07-05,paycheck,2250.0
+2019-07-06,credit card payment,220.08
+2019-07-06,groceries,92.98
+2019-07-06,restaurants,23.26
+2019-07-07,home improvement,103.14
+2019-07-08,credit card payment,305.28
+2019-07-08,credit card payment,220.08
+2019-07-09,credit card payment,549.72
+2019-07-09,music,10.69
+2019-07-10,mobile phone,65.0
+2019-07-10,utilities,30.0
+2019-07-15,groceries,87.14
+2019-07-16,shopping,89.99
+2019-07-16,utilities,60.0
+2019-07-17,utilities,35.0
+2019-07-18,auto insurance,75.0
+2019-07-18,credit card payment,814.5
+2019-07-18,gas & fuel,36.42
+2019-07-18,groceries,29.83
+2019-07-18,restaurants,8.82
+2019-07-19,credit card payment,115.52
+2019-07-19,paycheck,2250.0
+2019-07-19,restaurants,28.0
+2019-07-22,credit card payment,257.08
+2019-07-22,restaurants,26.67
+2019-07-23,credit card payment,257.08
+2019-07-24,coffee shops,2.5
+2019-07-27,haircut,30.0
+2019-07-28,home improvement,44.31
+2019-07-29,groceries,5.35
+2019-07-29,restaurants,44.92
+2019-07-30,groceries,15.77
+2019-07-30,internet,75.0
+2019-08-01,shopping,13.09
+2019-08-02,mortgage & rent,1100.0
+2019-08-02,paycheck,2250.0
+2019-08-03,gas & fuel,36.36
+2019-08-03,groceries,3.96
+2019-08-03,restaurants,23.47
+2019-08-04,television,13.9
+2019-08-05,alcohol & bars,18.0
+2019-08-05,credit card payment,349.28
+2019-08-05,credit card payment,117.65
+2019-08-06,credit card payment,521.17
+2019-08-06,credit card payment,117.65
+2019-08-06,home improvement,125.0
+2019-08-08,groceries,11.72
+2019-08-09,music,10.69
+2019-08-09,utilities,30.0
+2019-08-12,mobile phone,65.0
+2019-08-12,restaurants,26.67
+2019-08-14,coffee shops,2.75
+2019-08-15,credit card payment,335.2
+2019-08-15,utilities,60.0
+2019-08-16,paycheck,2250.0
+2019-08-16,utilities,35.0
+2019-08-17,credit card payment,87.17
+2019-08-17,groceries,33.15
+2019-08-17,haircut,19.0
+2019-08-17,restaurants,3.5
+2019-08-19,credit card payment,1248.95
+2019-08-20,auto insurance,75.0
+2019-08-20,coffee shops,2.75
+2019-08-21,gas & fuel,34.69
+2019-08-23,coffee shops,2.75
+2019-08-25,restaurants,39.43
+2019-08-26,home improvement,66.75
+2019-08-29,coffee shops,3.0
+2019-08-30,coffee shops,2.75
+2019-08-30,internet,75.0
+2019-08-30,paycheck,2250.0
+2019-08-31,home improvement,68.04
+2019-08-31,restaurants,41.78
+2019-09-01,shopping,13.09
+2019-09-03,mortgage & rent,1100.0
+2019-09-03,restaurants,41.24
+2019-09-04,television,13.9
+2019-09-05,coffee shops,3.75
+2019-09-06,credit card payment,1390.37
+2019-09-06,credit card payment,502.75
+2019-09-07,alcohol & bars,12.87
+2019-09-08,alcohol & bars,19.3
+2019-09-09,gas & fuel,28.77
+2019-09-09,groceries,65.09
+2019-09-09,home improvement,26.25
+2019-09-09,music,10.69
+2019-09-09,utilities,30.0
+2019-09-11,credit card payment,360.56
+2019-09-11,mobile phone,65.0
+2019-09-12,credit card payment,360.56
+2019-09-13,coffee shops,2.75
+2019-09-13,paycheck,2250.0
+2019-09-14,groceries,46.44
+2019-09-15,shopping,47.66
+2019-09-16,credit card payment,90.57
+2019-09-16,utilities,35.0
+2019-09-17,credit card payment,186.13
+2019-09-17,utilities,60.0
+2019-09-18,auto insurance,75.0
+2019-09-18,credit card payment,1606.46
+2019-09-19,alcohol & bars,40.81
+2019-09-19,coffee shops,2.75
+2019-09-20,credit card payment,9.43
+2019-09-22,restaurants,131.1
+2019-09-23,credit card payment,9.43
+2019-09-23,groceries,27.71
+2019-09-23,shopping,24.63
+2019-09-27,paycheck,2250.0
+2019-09-28,gas & fuel,33.46
+2019-09-28,gas & fuel,4.27
+2019-09-30,coffee shops,1.75
+2019-09-30,internet,75.0
